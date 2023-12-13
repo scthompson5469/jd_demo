@@ -1,0 +1,18 @@
+{
+  "EnvironmentVariables": [
+    {
+      "SchemaName": "demo_demo_variable",
+      "Value": ""
+    },
+    {
+      "SchemaName": "jd_demo_link",
+      "Value": ""
+    }
+  ],
+  "ConnectionReferences": [
+    {
+      "LogicalName": "msdyn_Dataverse",
+      "ConnectionId": ""
+    }
+  ]
+}

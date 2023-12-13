@@ -1,0 +1,11 @@
+<environmentvariabledefinition schemaname="jd_demo_link">
+  <defaultvalue>https://admin.powerplatform.microsoft.com/home</defaultvalue>
+  <displayname default="demo_link">
+    <label description="demo_link" languagecode="1033" />
+  </displayname>
+  <introducedversion>1.0.0.0</introducedversion>
+  <iscustomizable>1</iscustomizable>
+  <isrequired>0</isrequired>
+  <secretstore>0</secretstore>
+  <type>100000000</type>
+</environmentvariabledefinition>
